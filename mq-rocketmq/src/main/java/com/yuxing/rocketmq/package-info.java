@@ -5,6 +5,7 @@
  * > messagemodel: 消息模式：集群、广播
  * > tagandkey: 消息的 tag 和 key
  * > sequentialmessage: 发送顺序性消息测试
+ * > transactionmessage: 发送事务消息测试
  *
  * @author yuxing
  * @since 2022/1/19
